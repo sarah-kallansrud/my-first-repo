@@ -16,6 +16,10 @@ body {
 
 }
 
+img {
+    width: 300px;
+}
+
 .greeting {
     width: 90%;
     max-width: 600px;
